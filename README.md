@@ -32,5 +32,5 @@ This project helped me understand how small details like design, layout, and cle
 I’m continuously improving my data analytics skills, and feedback is always welcome!
 
 🖼️ Screenshots :
-Overview Dashboard - 
+Overview Dashboard - https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Overview%20dashboard.png
 Insights Dashboard - 
