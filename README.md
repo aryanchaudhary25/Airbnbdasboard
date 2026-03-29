@@ -1,4 +1,4 @@
-# Airbnb dasboard
+# GLOBAL AIRBNB PERFORMANCE DASBOARD
 
 Just Built My Airbnb Dashboard – Here’s What I Learned!
 
