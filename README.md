@@ -33,4 +33,4 @@ I’m continuously improving my data analytics skills, and feedback is always we
 
 🖼️ Screenshots :
 Overview Dashboard - https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Overview%20dashboard.png
-Insights Dashboard - 
+Insights Dashboard - https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Ratings%20dashboard.png
