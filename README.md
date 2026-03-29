@@ -1,4 +1,4 @@
-# Airbnbdasboard
+# Airbnb dasboard
 
 Just Built My Airbnb Dashboard – Here’s What I Learned!
 
