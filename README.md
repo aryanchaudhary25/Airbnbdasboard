@@ -32,5 +32,7 @@ This project helped me understand how small details like design, layout, and cle
 I’m continuously improving my data analytics skills, and feedback is always welcome!
 
 🖼️ Screenshots :
-Overview Dashboard - https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Overview%20dashboard.png
-Insights Dashboard - https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Ratings%20dashboard.png
+
+Overview Dashboard - ![image alt](https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Overview%20dashboard.png)
+
+Insights Dashboard - ![image alt](https://github.com/aryanchaudhary25/Airbnbdasboard/blob/main/Airbnb%20Ratings%20dashboard.png)
